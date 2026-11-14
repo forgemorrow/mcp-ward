@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "local-fs-unrestricted": {
+      "command": "npx",
+      "args": ["-y", "@example/filesystem-mcp", "/"],
+      "description": "Broad filesystem access server for local demo."
+    }
+  }
+}
